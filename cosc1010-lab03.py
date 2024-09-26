@@ -1,9 +1,9 @@
-# Your Name Here
+# Your Name Here Tristan Boardman
 # UWYO COSC 1010
-# Submission Date
+# Submission Date 9/26/24
 # Lab 03 
-# Lab Section: 
-# Sources, people worked with, help given to: 
+# Lab Section: 18
+# Sources, people worked with, help given to: Help given to: Riley Kramer-Klouda
 # your
 # comments
 # here
